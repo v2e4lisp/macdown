@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>FAE1A531-ECC4-436B-B962-A1DF15F85B2F</string>
+	<string>5E5F1857-62E5-4825-8695-64C1D11C4841</string>
 	<key>IDESourceControlProjectName</key>
 	<string>MacDown</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>ssh://github.com/v2e4lisp/macdown.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MacDown.xcworkspace</string>
+	<string>MacDown.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>E4B98E30-3CB9-4F2B-89AF-66AF077201A7</key>
-		<string>..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>ssh://github.com/v2e4lisp/macdown.git</string>
